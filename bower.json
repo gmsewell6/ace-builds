@@ -5,8 +5,8 @@
   "authors": [
     "ajaxorg"
   ],
-  "description": "bower installable ace-builds fork of v1.1.8 src-min-noconflict",
-  "main": "src-min-noconflict/ace.js",
+  "description": "bower installable ace-builds fork of v1.1.8 src-noconflict",
+  "main": "src-noconflict/ace.js",
   "license": "MIT",
   "private": true,
   "ignore": [
