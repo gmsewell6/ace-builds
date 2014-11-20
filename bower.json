@@ -1,0 +1,19 @@
+{
+  "name": "ace-builds",
+  "version": "1.1.8",
+  "homepage": "https://github.com/gmsewell6/ace-builds",
+  "authors": [
+    "ajaxorg"
+  ],
+  "description": "bower installable ace-builds fork of v1.1.8 src-min-noconflict",
+  "main": "src-min-noconflict/ace.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
