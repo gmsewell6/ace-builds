@@ -19,5 +19,11 @@ manual inclusion.
  
 Use:
 ```
-$ bower install git@github.com:gmsewell6/ace-builds.git#dev-ace-builds --save
+$ bower install ace-builds=git@github.com:gmsewell6/ace-builds.git#dev-min-noconflict --save
+```
+any bower resolutions should:
+```
+"resolutions": {
+	"ace-builds": "dev-min-noconflict"
+}
 ```
