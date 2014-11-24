@@ -6,7 +6,7 @@
     "ajaxorg"
   ],
   "description": "private bower installable ace-builds fork of v1.1.8 using src-min-noconflict distro",
-  "main": "src-min-noconflict/ace.js",
+  "main": "src-min-noconflict/*.js",
   "license": "MIT",
   "private": true,
   "ignore": [
