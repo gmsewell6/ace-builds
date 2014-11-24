@@ -1,7 +1,7 @@
 {
   "name": "ace-builds",
   "version": "1.1.8",
-  "homepage": "https://github.com/gmsewell6/ace-builds",
+  "homepage": "https://github.com/gmsewell6/ace-builds/tree/prod-min-noconflict",
   "authors": [
     "ajaxorg"
   ],
